@@ -1,0 +1,20 @@
+
+.card-header{
+    background-color: rgb(0, 0, 0) !important;
+    color:white;
+    
+}
+.card-body{
+    background-color: aliceblue;
+}
+.card-base{
+    /* margin: 0.5px; */
+    padding: 18px 0;
+    border: 5px solid grey;
+    border-radius: 15px;
+    box-shadow: 10px;
+}
+.btn{
+    border: 5px solid rgb(0, 225, 255) !important ;
+    border-radius:15px !important;
+}
